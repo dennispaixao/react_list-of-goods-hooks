@@ -4,6 +4,7 @@
   },
   "extends": "@mate-academy/students-ts-config",
   "include": [
-    "src"
+    "src", "cypress.config.ts", "cypress"
   ]
+ 
 }
